@@ -1,0 +1,30 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/506691.jpg");
+    background-size: cover;
+}
+
+img {
+    height: 2cm;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.sectt {
+    background-color: rgb(114, 114, 114);
+    display: inline-block;
+}
+
+.h1, h2, h3 {
+    color: white;
+}
+
+.sebb {
+    display: inline-block;
+}
